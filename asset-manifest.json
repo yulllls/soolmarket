@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/soolmarket/static/css/main.1c4fd064.css",
-    "main.js": "/soolmarket/static/js/main.71a72505.js",
+    "main.js": "/soolmarket/static/js/main.48eefcfd.js",
     "static/js/787.b37429d3.chunk.js": "/soolmarket/static/js/787.b37429d3.chunk.js",
     "index.html": "/soolmarket/index.html",
     "main.1c4fd064.css.map": "/soolmarket/static/css/main.1c4fd064.css.map",
-    "main.71a72505.js.map": "/soolmarket/static/js/main.71a72505.js.map",
+    "main.48eefcfd.js.map": "/soolmarket/static/js/main.48eefcfd.js.map",
     "787.b37429d3.chunk.js.map": "/soolmarket/static/js/787.b37429d3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1c4fd064.css",
-    "static/js/main.71a72505.js"
+    "static/js/main.48eefcfd.js"
   ]
 }
